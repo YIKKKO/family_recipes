@@ -3,4 +3,5 @@
 
 - 4 cup of flour
 - dry yeast
-- teaspoon 
+- teaspoon salt
+- 2 cups of water
